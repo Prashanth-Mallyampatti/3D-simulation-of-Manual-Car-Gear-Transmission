@@ -1,0 +1,107 @@
+﻿  gear.cpp
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(26): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(74): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(75): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(77): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(87): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(88): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(89): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(97): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(99): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(101): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(102): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(104): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(113): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(114): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(116): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(117): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(123): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(125): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(127): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(128): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(129): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(130): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(137): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(140): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(147): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(148): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(150): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(151): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(155): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(156): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(160): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(161): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(171): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(174): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(175): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(184): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(195): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(196): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(213): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(215): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(229): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(243): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(253): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(255): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(256): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(257): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(258): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(281): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(336): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(342): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(343): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(350): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(364): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(370): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(371): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(377): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(384): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(385): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(391): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(392): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(399): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(405): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(406): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(419): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(420): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(427): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(434): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(468): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(474): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(500): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(507): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(511): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(518): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(522): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(535): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(561): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(588): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(615): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(704): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(704): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(705): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(705): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(706): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(706): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(707): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(707): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(722): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(736): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(744): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(751): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(758): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(765): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(772): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(786): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(793): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\prashanth\documents\visual studio 2017\projects\project\project\gear.cpp(800): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project.vcxproj -> C:\Users\Prashanth\Documents\Visual Studio 2017\Projects\Project\Debug\Project.exe
+  Project.vcxproj -> C:\Users\Prashanth\Documents\Visual Studio 2017\Projects\Project\Debug\Project.pdb (Partial PDB)
